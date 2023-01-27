@@ -124,4 +124,4 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 # whitenoise
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
-CSRF_TRUSTED_ORIGINS = ["https://freelancer-system.fly.dev"]
+CSRF_TRUSTED_ORIGINS = ["https://freelance-system.fly.dev"]
