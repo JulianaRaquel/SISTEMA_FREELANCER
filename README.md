@@ -21,7 +21,7 @@
 
 ## Instruções para instalação
 
-#### _Versão do Python requerida: 3.11.1
+#### _Versão do Python requerida:_ 3.11.1
 
 ### Faça o clone do projeto:
 ```commandline
